@@ -1,42 +1,38 @@
 {
-  "name": "fizz",
+  "name": "Dark Marine",
   "type": "dark",
   "colors": {
-    // Base workbench colors
     "foreground": "#E5D0AC",
-    "focusBorder": "#3674B5",
-    "selection.background": "#0c2a45",
+    "focusBorder": "#22303c",
+    "selection.background": "#20303e",
     
-    // Activity Bar
-    "activityBar.background": "#253543",
+    "activityBar.background": "#20303e",
     "activityBar.foreground": "#FF9D23",
     "activityBar.inactiveForeground": "#E5D0AC80",
     "activityBarBadge.background": "#C14600",
     "activityBarBadge.foreground": "#FEF9E1",
     
-    // Sidebar
-    "sideBar.background": "#162e44",
+    "sideBar.background": "#22303c",
     "sideBar.foreground": "#E5D0AC",
     "sideBarTitle.foreground": "#FF9D23",
-    "sideBarSectionHeader.background": "#253543",
+    "sideBarSectionHeader.background": "#20303e",
     "sideBarSectionHeader.foreground": "#FEF9E1",
     "sideBarSectionHeader.border": "#3D8D7A40",
+    "sideBar.border": "#3D8D7A40",
     
-    // Lists
-    "list.activeSelectionBackground": "#3674B5",
+    "list.activeSelectionBackground": "#334558",
     "list.activeSelectionForeground": "#FEF9E1",
-    "list.inactiveSelectionBackground": "#0c2a45",
+    "list.inactiveSelectionBackground": "#20303e",
     "list.hoverBackground": "#3D8D7A40",
     "list.focusBackground": "#3674B5",
     "list.focusForeground": "#FEF9E1",
     "list.highlightForeground": "#FF9D23",
     
-    // Editor
-    "editor.background": "#0c2a45",
+    "editor.background": "#20303e",
     "editor.foreground": "#E5D0AC",
     "editorLineNumber.foreground": "#3D8D7A",
     "editorLineNumber.activeForeground": "#FF9D23",
-    "editor.selectionBackground": "#3674B5",
+    "editor.selectionBackground": "#24578d",
     "editor.selectionHighlightBackground": "#3674B580",
     "editor.wordHighlightBackground": "#3D8D7A40",
     "editor.findMatchBackground": "#C14600",
@@ -45,27 +41,24 @@
     "editor.lineHighlightBorder": "#3D8D7A00",
     "editorCursor.foreground": "#FF9D23",
     "editorWhitespace.foreground": "#3D8D7A40",
-    "editorIndentGuide.background": "#3D8D7A40",
-    "editorIndentGuide.activeBackground": "#3D8D7A",
+    "editorIndentGuide.background1": "#3D8D7A40",
+    "editorIndentGuide.activeBackground1": "#3D8D7A",
     
-    // Status Bar
-    "statusBar.background": "#C14600",
+    "statusBar.background": "#513729",
     "statusBar.foreground": "#FEF9E1",
     "statusBar.debuggingBackground": "#FF9D23",
-    "statusBar.noFolderBackground": "#0c2a45",
+    "statusBar.noFolderBackground": "#20303e",
     "statusBarItem.remoteBackground": "#3D8D7A",
     "statusBarItem.remoteForeground": "#FEF9E1",
     
-    // Title Bar
-    "titleBar.activeBackground": "#0c2a45",
+    "titleBar.activeBackground": "#20303e",
     "titleBar.activeForeground": "#E5D0AC",
-    "titleBar.inactiveBackground": "#0c2a45",
+    "titleBar.inactiveBackground": "#20303e",
     "titleBar.inactiveForeground": "#E5D0AC80",
     
-    // Terminal
-    "terminal.background": "#0c2a45",
+    "terminal.background": "#20303e",
     "terminal.foreground": "#E5D0AC",
-    "terminal.ansiBlack": "#0c2a45",
+    "terminal.ansiBlack": "#20303e",
     "terminal.ansiBlue": "#3674B5",
     "terminal.ansiGreen": "#3D8D7A",
     "terminal.ansiYellow": "#FF9D23",
@@ -74,20 +67,25 @@
     "terminal.ansiCyan": "#3D8D7A",
     "terminal.ansiWhite": "#FEF9E1",
     
-    // Buttons & Inputs
-    "button.background": "#3674B5",
+    "button.background": "#30485d",
     "button.foreground": "#FEF9E1",
-    "button.hoverBackground": "#3D8D7A",
-    "input.background": "#27445D",
+    "button.hoverBackground": "#354450",
+    "input.background": "#20303e",
     "input.foreground": "#E5D0AC",
     "input.border": "#3D8D7A40",
     
-    // Tabs
-    "tab.activeBackground": "#0c2a45",
+    "tab.activeBackground": "#20303e",
     "tab.activeForeground": "#FF9D23",
-    "tab.inactiveBackground": "#27445D",
+    "tab.inactiveBackground": "#1c2935",
     "tab.inactiveForeground": "#e5c998",
-    "editorGroupHeader.tabsBackground": "#27445D"
+    "editorGroupHeader.tabsBackground": "#22303c",
+
+    "notifications.background": "#20303e",
+    "notifications.foreground": "#E5D0AC",
+
+    "editorWidget.background": "#20303e",
+    "pickerGroup.foreground": "#FF9D23",
+    "editorWidget.resizeBorder": "#FF9D23"
   },
   "tokenColors": [
     {
@@ -174,7 +172,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#3674B5"
+        "foreground": "#7bddbb"
       }
     },
     {
@@ -206,7 +204,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#3674B5"
+        "foreground": "#9db4ce"
       }
     },
     {
