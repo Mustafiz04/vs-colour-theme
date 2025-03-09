@@ -2,7 +2,7 @@
   "name": "dark-marine",
   "displayName": "Dark Marine",
   "description": "A dark theme with a marine blue background",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "MustafizKaifee",
   "engines": {
     "vscode": "^1.97.0"

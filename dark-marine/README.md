@@ -1,16 +1,31 @@
-# Dark Marine
+# Dark Marine Theme
+A sleek and modern dark theme for VS Code, created by [Mustafiz Kaifee](https://mustafizkaifee.in) for a comfortable coding experience and carefully chosen colors for syntax highlighting.
 
+## Installation 🛠️
 
-## Install
+From the VS Code Marketplace
 
-1. Open **Extensions** sidebar panel in VS Code. `View -> Extensions`
-2. Search for `dark-marine` in the Extensions marketplace.
-3. Click the **Install** button to install it.
-4. Once the extension is installed, click **Reload** to enable it.
-5. The theme will be applied after reloading the editor.
+1. Open VS Code
+2.	Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+3.	Search for "Dark Marine"
+4.	Click Install and Set Color Theme
 
-## Activate theme
+## Manual Installation
+1.	Download the .vsix file from GitHub Releases (if available)
+2.	Open VS Code and press Ctrl+Shift+P (Cmd+Shift+P on Mac)
+3.	Run “Extensions: Install from VSIX…”
+4.	Select the downloaded file and install
 
-Run the following command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac):
+## Activating the Theme 🎨
 
+1.	Open Command Palette (Ctrl+Shift+P / Cmd+Shift+P)
+2.	Type "Preferences: Color Theme"
+3.	Select Dark Marine
 
+## Screenshots 🖼️
+
+![Dark Marine Theme Screenshot](./themeSS1.png)
+
+## Contributing 🤝
+
+Feel free to submit issues or feature requests in the [GitHub repository](https://github.com/Mustafiz04/vs-colour-theme/tree/main/dark-marine).
