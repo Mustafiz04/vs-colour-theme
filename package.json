@@ -3,7 +3,7 @@
   "displayName": "Unique Minimal Theme",
   "description": "A beautiful and minimal VS Code theme",
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "Mustafiz Kaifee",
   "engines": {
     "vscode": "^1.75.0"
   },
